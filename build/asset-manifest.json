@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/EMS-Dev/static/css/main.28d585bc.css",
+    "main.js": "/EMS-Dev/static/js/main.39e00b68.js",
+    "static/js/787.86ff2ebd.chunk.js": "/EMS-Dev/static/js/787.86ff2ebd.chunk.js",
+    "static/media/hero-bg.png": "/EMS-Dev/static/media/hero-bg.d113423a964a5639b9bd.png",
+    "static/media/hero-bg.jpg": "/EMS-Dev/static/media/hero-bg.f38bbcb2041b8255eb56.jpg",
+    "static/media/bg.test.jpg": "/EMS-Dev/static/media/bg.test.637c13ae71c6782d7e47.jpg",
+    "static/media/sprite-genius.png": "/EMS-Dev/static/media/sprite-genius.010bac9c02780b436536.png",
+    "static/media/revicons.eot": "/EMS-Dev/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/EMS-Dev/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/EMS-Dev/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/EMS-Dev/index.html",
+    "main.28d585bc.css.map": "/EMS-Dev/static/css/main.28d585bc.css.map",
+    "main.39e00b68.js.map": "/EMS-Dev/static/js/main.39e00b68.js.map",
+    "787.86ff2ebd.chunk.js.map": "/EMS-Dev/static/js/787.86ff2ebd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28d585bc.css",
+    "static/js/main.39e00b68.js"
+  ]
+}
